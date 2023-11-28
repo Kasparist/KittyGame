@@ -1,0 +1,4 @@
+.header{
+    color: rgba(226, 118, 229, 255);
+    font-size: 30px;
+}
